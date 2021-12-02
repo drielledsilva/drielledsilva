@@ -1,8 +1,8 @@
-# Olá! Pode me chamar de Ellie. Não, não é por causa de The Last of Us, mas poderia ser. 🙃
+# Oi! Pode me chamar de Ellie. Não, não é por causa de The Last of Us, mas poderia ser. 🙃
 ***
 
-
-- ♀️ Pronomes: Ela/Dela
+- Não sou dev. Ainda.
+- Pronomes: Ela/Dela
 ***
 - 💡 Atualmente me dedicando a aprender:
 <div>
