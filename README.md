@@ -3,7 +3,7 @@
 - Não sou dev. Ainda.
 - Pronomes: Ela/Dela
 ***
-### - :open_book: Atualmente me dedicando a aprender:
+## - :open_book: Atualmente me dedicando a aprender:
 <div align="center">
     <a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"><img src=https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank"></a>
     <a href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
