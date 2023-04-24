@@ -10,7 +10,7 @@
    <a href="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank"></a>
    <a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>
    <a href="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-   <img align="right" alt="Ellie-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/209ac0e7c6c56e5cbcab30ec8e354cc5.gif">
+   <img align="right" alt="Ellie-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/ffc46793c133e8fabceb016aceac3b96.gif">
 </div>
   
  ***
