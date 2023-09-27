@@ -1,6 +1,6 @@
 # Oi! Pode me chamar de Ellie. Não, não é por causa de The Last of Us, mas poderia ser. 🙃
 ***
-- 1° período em Análise e Desenvolvimento de Sistemas
+- 2° período em Análise e Desenvolvimento de Sistemas
 ***
 ## 👾 Tecnologias utilizadas:
 <div align="center">
