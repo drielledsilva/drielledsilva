@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/drielledsilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=drielledsilva&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drielledsilva&layout=compact&langs_count=7&theme=calm_pink"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=drielledsilva&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drielledsilva&layout=compact&langs_count=7&theme=calm_pink"/>
 </div>
 
 
