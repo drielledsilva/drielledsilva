@@ -1,6 +1,6 @@
 # Oi! Pode me chamar de Ellie. Não, não é por causa de The Last of Us, mas poderia ser. 🙃
 
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente no 4° período.
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas. Atualmente no 5° período.
 - 📚 Estudando Java.
 
 ***
