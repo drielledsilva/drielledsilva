@@ -1,7 +1,8 @@
-# 👩🏻‍💻 Drielle da Silva 
+# 👋 Olá! Me chamo Drielle
 
 - 🎓 5° período de Análise e Desenvolvimento de Sistemas.
-- 📚 Estudando Java.
+- 📚 Atualmente participando de um Bootcamp de Java, focado em desenvolvimento backend.
+
 
 ---
 
