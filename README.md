@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Drielle
+# 👋 Olá! Eu sou Drielle da Silva
 
 - 🎓 5° período de Análise e Desenvolvimento de Sistemas.
 - 📚 Atualmente participando de um Bootcamp de Java, focado em desenvolvimento backend.
