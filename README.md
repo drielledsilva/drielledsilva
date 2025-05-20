@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Drielle da Silva
 
 - 🎓 5° período de Análise e Desenvolvimento de Sistemas.
-- 📚 Atualmente participando de um Bootcamp focado em desenvolvimento front-end com HTML, CSS e JavaScript.
+- 📚 Atualmente participando de um Bootcamp focado em desenvolvimento front-end com ênfase em HTML, CSS e JavaScript.
 
 
 
